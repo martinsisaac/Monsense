@@ -1,0 +1,32 @@
+body{
+    font-family: ubuntu,sans-serif ;
+}
+.header {
+    color: white;
+    background-color: black;
+    text-align: center;
+    height:200px ;
+
+}
+li {
+    list-style: none;
+    float: left;
+    color: lightgreen;
+    padding: 21px;
+    border-right: 1px solid black;
+}
+.span {
+    float: right;
+}
+ul {
+    border-bottom: 1px solid black;
+    height: 60px;
+    padding: 0px;
+    margin: 0px;
+}
+.sec1 img {
+    float: right;
+}
+.sec2 img {
+    float: left;
+}            
